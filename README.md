@@ -7,7 +7,7 @@ A self-hosted Security Operations Center (SOC) and detection engineering lab bui
 
 ## 🏗️ Architecture Diagram
 
-```text
+
 ========================================================================================
                                     PHYSICAL HARDWARE
                       Dell Mini PC (Intel 8-Core, 16GB RAM, SSD + HDD)
@@ -43,6 +43,7 @@ A self-hosted Security Operations Center (SOC) and detection engineering lab bui
          │  │    • Security Configuration Assessment (SCA)                │  │
          │  └─────────────────────────────────────────────────────────────┘  │
          └───────────────────────────────────────────────────────────────────┘
+
 ## 🛠️ Tools and Technologies Used
 
 ### 1. Virtualization & Infrastructure Layer
